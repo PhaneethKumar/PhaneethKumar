@@ -45,8 +45,8 @@ flowchart LR
     B --> C["3. Execute Consistently"]
     C --> D["4. Check Results"]
     D --> E["5. Minor Tweak"]
-    E -->|"Not there yet? Iterate"| C
-    D ==>|"Goal reached"| F(["Ship it"])
+    E -->|"Iterate"| C
+    D ==>|"Goal reached"| F(["Continue Process"])
 
     classDef step fill:#203a43,stroke:#00D9FF,color:#ffffff
     classDef done fill:#00D9FF,stroke:#0f2027,color:#0f2027
