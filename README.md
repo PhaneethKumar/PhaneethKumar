@@ -10,12 +10,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaneeth-kumar)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PhaneethKumar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/q2quaWD60l/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.phaneethkumarvutla@gmail.com)
 
 <br/>
 
-<a href="https://github.com/phaneeth-kumar/phaneeth-kumar/raw/main/Phaneeth_Kumar_Resume.pdf">
+<a href="https://github.com/PhaneethKumar/PhaneethKumar/blob/main/Phaneeth_Kumar_Resume.pdf">
   <img src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20My%20Resume-00D9FF?style=for-the-badge&labelColor=0f2027&color=00D9FF" alt="Download Resume" height="46" />
 </a>
 
