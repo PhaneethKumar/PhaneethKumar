@@ -29,7 +29,7 @@
 
 ## 👋 Hey there, I'm Phaneeth
 
-Undergraduate CS student at **MITS, Madanapalle**, aiming to get ridiculously good at tech.
+Undergraduate CS student, aiming to get ridiculously good at tech.
 Coming from a tier-3 college, I've learned to juggle academics and self-driven learning the hard way, and I wouldn't trade what it taught me.
 
 > 💡 **My philosophy:** *Real-world execution shows the correct way as we go.*
